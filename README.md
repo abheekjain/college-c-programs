@@ -1,61 +1,41 @@
 # College C Programs
 
-A collection of C programming assignments completed as part of my **B.Tech in Information and Communication Technology (ICT)**.
-
-This repository documents my programming practice, problem-solving journey, and understanding of fundamental programming concepts.
+A collection of C programming solutions completed as part of my college coursework. This repository contains programs organized by assignment to make learning, revision, and reference easier.
 
 ## 📂 Repository Structure
 
-```text
-college-c-programs/
-├── ASSIGNMENT 1/
-├── ASSIGNMENT 2/
-├── ASSIGNMENT 3/
-└── ASSIGNMENT 4/
-```
+| Assignment | Number of Programs |
+|:---|---:|
+| Assignment 1 | 24 |
+| Assignment 2 | 6 |
+| Assignment 3 | 34 |
+| Assignment 4 | 19 |
+| Assignment 5 | 12 |
+| Assignment 6 | 6 |
+| **Total** | **101** |
 
-Each assignment folder contains individual C source files for its respective programming questions.
+## 🛠️ Technologies Used
 
-## 🧠 Topics Covered
-
-The programs in this repository are intended to practice fundamental C programming concepts, including:
-
-- Variables and data types
-- Operators and expressions
-- Conditional statements
-- Loops and iteration
-- Functions
-- Problem-solving and logical thinking
-
-*The topics listed above describe the concepts this coursework may cover; the exact topics depend on the programs in each assignment.*
-
-## 🛠️ Language and Tools
-
-- **Language:** C
+- **Programming Language:** C
 - **Compiler:** GCC
 - **Editor:** Visual Studio Code
 - **Version Control:** Git and GitHub
 
-## ▶️ How to Run a Program
+## 🚀 How to Run the Programs
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/abheekjain/college-c-programs.git
-   ```
-
-2. Open the desired `.c` file in your code editor.
-
-3. Compile the program using GCC:
+1. Clone or download this repository.
+2. Open the desired assignment folder.
+3. Open a `.c` file in Visual Studio Code.
+4. Compile the program using GCC:
 
    ```bash
-   gcc "1.c" -o program
+   gcc program.c -o program
    ```
 
-4. Run the compiled program:
+5. Run the compiled program.
 
    **Windows:**
-   ```cmd
+   ```bash
    program.exe
    ```
 
@@ -64,15 +44,24 @@ The programs in this repository are intended to practice fundamental C programmi
    ./program
    ```
 
-   Replace `1.c` with the path to the program you want to compile.
+   Replace `program.c` with the actual source filename.
 
 ## 🎯 Purpose
 
-This repository serves as a record of my academic programming practice and my progress in developing a strong foundation in programming and problem-solving.
+This repository documents my progress in learning C programming and strengthening my understanding of programming fundamentals through practical assignments.
 
-I will continue updating it as I complete more assignments and improve my coding skills.
+## 📌 Notes
 
----
+- Programs are organized into separate assignment folders.
+- The repository is intended for learning, practice, and revision.
+- The code may evolve as I improve my programming skills.
 
-**Student:** B.Tech ICT  
-**GitHub:** [@abheekjain](https://github.com/abheekjain)
+## 👨‍💻 Author
+
+**Abheek Jain**  
+B.Tech — Information and Communication Technology (ICT)  
+Pandit Deendayal Energy University (PDEU)
+
+## 📄 License
+
+This repository is primarily intended for educational purposes.
